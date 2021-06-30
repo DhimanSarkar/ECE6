@@ -1,0 +1,6 @@
+@Misc{det1,
+	author	= {Wolfram Alpha LLC},
+	title 	= {Wolfram|Alpha},
+	howPublished = {\url{https://www.wolframalpha.com/input/?i=determinant+%7B%7Bc_1%2Cc_2%2Cc_3%7D%2C%7B-6c_3%2Cc_1-11c_3%2Cc_2-6c_3%7D%2C%7B-6c_2%2B36c_3%2C-11c_2%2B60c_3%2Cc_1-6c_2%2B25c_3%7D%7D}},
+	note = {Accessed on 10/06/2021}
+}
